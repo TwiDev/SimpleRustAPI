@@ -3,3 +3,4 @@
 .gitignore
 .vscode
 /.vscode
+cargo.lock
